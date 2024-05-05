@@ -6,7 +6,7 @@
 - 🌐 My personal website at [faraaz.id](https://faraaz.id/)
 - 📫 How to reach me: [faraazap@gmail.com](mailto:faraazap@gmail.com)
 
-<h2 align="left">😗 Stalk My Social Media 😗</h2>
+<h2 align="left">Stalk My Social Media 😗</h2>
 
 <div>
 <!--     <a href="https://discord.com">
@@ -28,8 +28,9 @@
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" class="badge-img">
     </a>
 </div>
+<br/>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools 🛠️</h2>
 
 <h3>🔥 Frameworks</h3>
 <div>
@@ -61,7 +62,6 @@
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="badge-img">
 </div>
 <br>
-<br>
 
 <h2>📊 GitHub Stats:</h2>
 <p align="center" style="display:inline-block;">
@@ -71,8 +71,12 @@
 </p>
 <br>
 
-<h2 align="center">☕ Buy Me a Coffee ☕</h2>
-<p align="center">
-  [![Support me on Trakteer](https://img.shields.io/badge/Support%20Me%20on-Trakteer-%23FF5722)](https://trakteer.id/f.ahmad480)
-  [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.me/faraaz480)
+<h2>Buy Me a Coffee ☕</h2>
+<p>
+  <a href="https://trakteer.id/f.ahmad480">
+    <img src="https://img.shields.io/badge/Support%20Me%20on-Trakteer-%23FF5722?style=for-the-badge" alt="Support me on Trakteer">
+  </a>
+  <a href="https://www.paypal.me/faraaz480">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal">
+  </a>
 </p>
