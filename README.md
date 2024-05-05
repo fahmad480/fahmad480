@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" class="badge-img">
 </div>
 
-<h3>☁️ Hosting/SaaS</h3>
+<h3>☁️ Hosting/SaaS/DevOps</h3>
 <div>
     <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" class="badge-img">
     <img src="https://img.shields.io/badge/Armbian-%23017B63.svg?style=for-the-badge&logo=armbian&logoColor=white" alt="Armbian" class="badge-img">
@@ -48,6 +48,20 @@
     <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" class="badge-img">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" class="badge-img">
     <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" class="badge-img">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-img">
+    <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" class="badge-img">
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="badge-img">
+    <img src="https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" class="badge-img">
+</div>
+
+<h3>🗄️ Database</h3>
+<div>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" class="badge-img">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" class="badge-img">
+    <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" class="badge-img">
+    <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="badge-img">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" class="badge-img">
+    <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" class="badge-img">
 </div>
 
 <h3>📋 Languages</h3>
