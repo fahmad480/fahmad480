@@ -1,96 +1,48 @@
-<h1 align="center">Yo 👋, I'm Faraaz</h1>
-<h3 align="center">Fullstack Developer | XR Developer Expert | First Snap Lens Network Developer in 🇮🇩</h3>
+# Faraaz Ahmad Permadi
 
-- 🔭 I’m currently working at Software House in Bandung
-- 🌱 I’m currently learning **Flutter and Go**
-- 🌐 My personal website at [faraaz.id](https://faraaz.id/)
-- 📫 How to reach me: [faraazap@gmail.com](mailto:faraazap@gmail.com)
+**Fullstack Developer | XR Developer Expert | First Snap Lens Network Developer in Indonesia 🇮🇩**
 
-<h2 align="left">Stalk My Social Media 😗</h2>
+## About Me
+- 🔭 Working at a Software House in Bandung
+- 🌱 Currently learning Flutter and Go
+- 🌐 [faraaz.id](https://faraaz.id/)
+- 📫 [faraazap@gmail.com](mailto:faraazap@gmail.com)
 
-<div>
-<!--     <a href="https://discord.com">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" class="badge-img">
-    </a>
-    <a href="https://facebook.com/">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" class="badge-img">
-    </a> -->
-    <a href="https://www.instagram.com/f.ahmad480/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" class="badge-img">
-    </a>
-    <a href="https://www.linkedin.com/in/faraazahmadpermadi/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="badge-img">
-    </a>
-    <a href="https://x.com/f_ahmad480">
-        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" class="badge-img">
-    </a>
-    <a href="https://www.youtube.com/@Faraaz480">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" class="badge-img">
-    </a>
-</div>
-<br/>
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraazahmadpermadi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/f.ahmad480/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/f_ahmad480)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@Faraaz480)
 
-<h2 align="left">Languages and Tools 🛠️</h2>
+## Skills
 
-<h3>🔥 Frameworks</h3>
-<div>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" class="badge-img">
-    <img src="https://img.shields.io/badge/Codeigniter-%23EE4623.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codeigniter" class="badge-img">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" class="badge-img">
-    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" class="badge-img">
-</div>
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
-<h3>☁️ Hosting/SaaS/DevOps</h3>
-<div>
-    <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" class="badge-img">
-    <img src="https://img.shields.io/badge/Armbian-%23017B63.svg?style=for-the-badge&logo=armbian&logoColor=white" alt="Armbian" class="badge-img">
-    <img src="https://img.shields.io/badge/Windows_Server-%2375AFCC.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" class="badge-img">
-    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" class="badge-img">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" class="badge-img">
-    <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" class="badge-img">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-img">
-    <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" class="badge-img">
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="badge-img">
-    <img src="https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" class="badge-img">
-</div>
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-%23EE4623.svg?style=flat-square&logo=codeigniter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-<h3>🗄️ Database</h3>
-<div>
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" class="badge-img">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" class="badge-img">
-    <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" class="badge-img">
-    <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="badge-img">
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" class="badge-img">
-    <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" class="badge-img">
-</div>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 
-<h3>📋 Languages</h3>
-<div>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="badge-img">
-    <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" class="badge-img">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="badge-img">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" class="badge-img">
-    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" class="badge-img">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" class="badge-img">
-    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" class="badge-img">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="badge-img">
-</div>
-<br>
+## GitHub Stats
 
-<h2>📊 GitHub Stats:</h2>
-<p align="center" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmad480&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmad480&show_icons=true&locale=en" alt="fahmad480" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmad480&" alt="fahmad480" />
-</p>
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmad480&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=fahmad480&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub Stats" />
 
-<h2>Buy Me a Coffee ☕</h2>
-<p>
-  <a href="https://trakteer.id/f.ahmad480">
-    <img src="https://img.shields.io/badge/Support%20Me%20on-Trakteer-%23FF5722?style=for-the-badge" alt="Support me on Trakteer">
-  </a>
-  <a href="https://www.paypal.me/faraaz480">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal">
-  </a>
-</p>
+## Support Me
+[![Trakteer](https://img.shields.io/badge/Trakteer-%23FF5722.svg?style=flat-square)](https://trakteer.id/f.ahmad480)
+[![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.me/faraaz480)
